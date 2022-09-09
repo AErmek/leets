@@ -6,7 +6,7 @@ namespace leets
     {
         static void Main(string[] args)
         {
-            var task  = new task284();
+            var task  = new task118();
             task.execute();
         }
     }
