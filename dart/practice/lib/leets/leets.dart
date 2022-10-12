@@ -48,13 +48,14 @@
 // import 'package:practice/leets/tasks/task1051.dart';
 // import 'package:practice/leets/tasks/task1578.dart';
 // import 'package:practice/leets/tasks/task38.dart';
-import 'package:practice/leets/tasks/task75.dart';
+// import 'package:practice/leets/tasks/task75.dart';
+import 'package:practice/leets/tasks/task976.dart';
 // import 'package:practice/leets/tasks/task832.dart';
 // import 'package:practice/leets/tasks/task747.dart';
 // import 'package:practice/leets/tasks/task862.dart';
 
 void tryLeet() {
-  final task = Task75();
+  final task = Task976();
   print("${task.runtimeType} started...");
   task.execute();
   print("${task.runtimeType} ended...");
